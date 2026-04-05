@@ -1,0 +1,227 @@
+{
+  "gary": {
+    "accountId": "f9200692-f003-4a7d-bbc6-cf0291e39ed3",
+    "apiKey": "sk_iftzw94C2FVHpvdQs587mL7gTaM2l6",
+    "userId": "d0b6e2cf-abec-4c9c-894b-2449c21b6b41",
+    "calendarId": "c9fb8d57-2e0a-461c-b1a0-430925da1b18",
+    "workerName": "Gary",
+    "role": "CTO",
+    "createdAt": "2026-04-05T11:54:51.023Z"
+  },
+  "shay": {
+    "accountId": "da403eb9-3fa5-451b-94db-174284987bcf",
+    "apiKey": "sk_lUSjuqQAv4m4nW275cdlV2oq9zjA3l",
+    "userId": "f1f6ac6d-09c0-4219-8441-080ff787c8ae",
+    "calendarId": "a787ba68-caea-4ad9-b7d7-78feef761492",
+    "workerName": "Shay",
+    "role": "Finance",
+    "createdAt": "2026-04-05T11:54:51.048Z"
+  },
+  "blanaid": {
+    "accountId": "de4d57fe-41be-4ae1-bfa0-8845a09cce90",
+    "apiKey": "sk_8T7FCAaObstP5nJ5S8qHtkXsi3xbsv",
+    "userId": "2e887948-feea-45b8-a0fa-a63d46cc92c4",
+    "calendarId": "0ba63089-5246-4131-8c9e-7ab405e05284",
+    "workerName": "Blanaid",
+    "role": "Legal",
+    "createdAt": "2026-04-05T11:54:51.073Z"
+  },
+  "aida": {
+    "accountId": "eb98671b-ad72-4744-a1b4-e1270f085006",
+    "apiKey": "sk_avJ6SwF1Wfy4orq5CrAjAbn8KaJUv5",
+    "userId": "83283295-a9c2-4fbf-b0cf-c769450e463f",
+    "calendarId": "2ef0bbcc-b4d9-443b-8c57-83e7db5a16bd",
+    "workerName": "Aida",
+    "role": "Marketing",
+    "createdAt": "2026-04-05T11:54:51.089Z"
+  },
+  "patrick": {
+    "accountId": "f4cdbc4c-7ce3-45a6-b5ba-8e116c10a8ac",
+    "apiKey": "sk_Vm7kV6N2QedppMApCtlKHScSm1u70c",
+    "userId": "c6017076-2310-47fd-a3f2-b23bb7685f37",
+    "calendarId": "ab27db7a-3582-41ab-9986-bc8c9eb43c0e",
+    "workerName": "Patrick",
+    "role": "Sales",
+    "createdAt": "2026-04-05T11:54:51.114Z"
+  },
+  "natasha": {
+    "accountId": "e14a6723-6f32-4cc6-b4a4-1fc33b59e8ea",
+    "apiKey": "sk_KfoKw5Hm6UEHaqHXJvaJe13RlQf25e",
+    "userId": "11695c39-abe2-4845-af35-85d986ab559d",
+    "calendarId": "deeb7a6b-bf3e-46a8-9f4a-bfb7186e4ad5",
+    "workerName": "Natasha",
+    "role": "Events",
+    "createdAt": "2026-04-05T11:54:51.131Z"
+  },
+  "mick": {
+    "accountId": "84318f5a-17f7-49fe-b7d6-55a4462bb792",
+    "apiKey": "sk_lhR57yUEcLKN9g1dGKsqR7fZBb6i4W",
+    "userId": "098b7e29-e24f-4319-bb21-13712b560c93",
+    "calendarId": "5d0bc88a-910b-48b9-afce-bedbfcce80ba",
+    "workerName": "Mick",
+    "role": "Campaign",
+    "createdAt": "2026-04-05T11:54:51.148Z"
+  },
+  "laurence": {
+    "accountId": "6ad5f42a-c69b-4fe4-9a63-11a242336d07",
+    "apiKey": "sk_iAzpI7SFIon4mmTRtcEy6ggv7RijyK",
+    "userId": "b9f189b9-3201-4667-98e5-0b1debce3dda",
+    "calendarId": "b824199d-e733-471f-b346-3c20cc3b0660",
+    "workerName": "Laurence",
+    "role": "Books",
+    "createdAt": "2026-04-05T11:54:51.162Z"
+  },
+  "julia": {
+    "accountId": "e8137998-2f9a-4a2c-9cbd-8f51174b4ca2",
+    "apiKey": "sk_cyvw4DLKyzRvECQGVgnPhX2b2koBID",
+    "userId": "87c7d67f-c1dc-4def-ae57-e19bc1f5b155",
+    "calendarId": "ed627468-69e7-4d8e-a18d-381258b438da",
+    "workerName": "Julia",
+    "role": "EU",
+    "createdAt": "2026-04-05T11:54:51.181Z"
+  },
+  "simon": {
+    "accountId": "5ebfd2bc-5c23-4523-b5d4-59080eba16c8",
+    "apiKey": "sk_nJb31938OQXjYS3xfSFVjd856MGqy0",
+    "userId": "13588126-3a61-4a38-92b4-a55f66f85946",
+    "calendarId": "22ddd1ba-e188-476d-99b5-16153eb5f70e",
+    "workerName": "Simon",
+    "role": "Government",
+    "createdAt": "2026-04-05T11:54:51.198Z"
+  },
+  "paul": {
+    "accountId": "d55976f6-a552-44fc-ae79-fcc34f013a88",
+    "apiKey": "sk_FSxcHxWX2iahmrSfIuXs1XtxxZzJqO",
+    "userId": "cd8f0923-37b4-45c6-b110-2f0be5586a5d",
+    "calendarId": "a3980663-5a96-479c-bb8f-305425d8cdc7",
+    "workerName": "Paul",
+    "role": "Architect",
+    "createdAt": "2026-04-05T11:54:51.212Z"
+  },
+  "thilo": {
+    "accountId": "6e6af2f7-5f78-4b18-af4c-e4ae84552762",
+    "apiKey": "sk_rUEt9LGrhWYuJrGzMiPXQbL14gMiYx",
+    "userId": "383824a2-7b46-42c0-b495-e9209dbd6fbe",
+    "calendarId": "f61355e4-480c-4e7d-bc03-fe0e9f05fbfd",
+    "workerName": "Thilo",
+    "role": "Photogrammetry",
+    "createdAt": "2026-04-05T11:54:51.227Z"
+  },
+  "dr-kashan": {
+    "accountId": "3059086f-f973-4d79-8e7c-e8bc03770f60",
+    "apiKey": "sk_ICONK8eYbOwigw1QVOU0CEXAJAoXRI",
+    "userId": "af84d108-cc91-4311-8619-90950cfad986",
+    "calendarId": "0b142177-f3e9-428a-b269-4afe58a39767",
+    "workerName": "Dr. Kashan",
+    "role": "Health",
+    "createdAt": "2026-04-05T11:54:51.256Z"
+  },
+  "nicole": {
+    "accountId": "38338fbd-4c7c-4ca2-b3f2-f8b57812b667",
+    "apiKey": "sk_H78Iy813Fm2vPICCQQrgXSNYPP72Bw",
+    "userId": "d2d68250-1bb7-45d4-85af-672cc4d6a698",
+    "calendarId": "96d8dd78-9527-46ef-a272-681b5769cc6d",
+    "workerName": "Nicole",
+    "role": "Travel",
+    "createdAt": "2026-04-05T11:54:51.307Z"
+  },
+  "claire": {
+    "accountId": "3b07e9d3-5171-412d-a622-78ff46ac5ad6",
+    "apiKey": "sk_qCKouf2B6I26LhJGhmQ7ODHMJ8uvxW",
+    "userId": "0e17852c-2a95-4141-99fd-104a9fba2df5",
+    "calendarId": "a2c5109c-297b-4496-8477-bcab79086a1f",
+    "workerName": "Claire",
+    "role": "Vet",
+    "createdAt": "2026-04-05T11:54:51.331Z"
+  },
+  "mary": {
+    "accountId": "001eb8fd-f2dd-41c7-81b3-8eef495df167",
+    "apiKey": "sk_4BE7DYW6tokBKW2XrfI19nxwCdivYI",
+    "userId": "c9fc5333-12e6-4ea9-88bb-7388173d321a",
+    "calendarId": "9ef32ecd-538a-41a6-8558-a12b610508ac",
+    "workerName": "Mary",
+    "role": "Psychology",
+    "createdAt": "2026-04-05T11:54:51.348Z"
+  },
+  "andrew": {
+    "accountId": "48a49a0c-0e97-4735-aa4b-3767e4b6b7e6",
+    "apiKey": "sk_t0Yh5pa5FQ7VdIvz2F1iyJwSEXNTWm",
+    "userId": "88966e72-f079-44d6-a6df-6e6ae3101e56",
+    "calendarId": "ebd34858-698c-4ec1-8f04-11e6577dd150",
+    "workerName": "Andrew",
+    "role": "Media",
+    "createdAt": "2026-04-05T11:54:51.363Z"
+  },
+  "peema": {
+    "accountId": "4585b6ae-d44d-4134-a8c7-137db9ea4436",
+    "apiKey": "sk_ngep6DYNSBdpHEvL3oGy8DuPpz23Qg",
+    "userId": "e251da54-e905-4f69-9c46-ba20f5b90fd6",
+    "calendarId": "fb4c5334-3d5b-482d-b431-4661bc4341a0",
+    "workerName": "Peema",
+    "role": "QA & Testing",
+    "createdAt": "2026-04-05T11:54:51.377Z"
+  },
+  "siobhan": {
+    "accountId": "1eb500bd-042f-462c-b27a-8c97aff30604",
+    "apiKey": "sk_fBnFBvWgNWS2aDEqPGJQHElqK3K8vs",
+    "userId": "3c7034d4-a8ab-41ce-bd2f-96c602ba1654",
+    "calendarId": "a579a80b-cd01-49ee-94d4-b644879b9235",
+    "workerName": "Siobhan",
+    "role": "PM",
+    "createdAt": "2026-04-05T11:54:51.391Z"
+  },
+  "eoin": {
+    "accountId": "ac3b0991-87f4-49b3-bd0c-7964c58b6850",
+    "apiKey": "sk_1tZtJacKN3KCkmv4kZI4dvbmyHaWM5",
+    "userId": "043724af-75d6-431f-b501-d3db737ae65a",
+    "calendarId": "0baddbab-85ea-490c-a53d-50c7bddcd19f",
+    "workerName": "Eoin",
+    "role": "Executive Director",
+    "createdAt": "2026-04-05T11:54:51.406Z"
+  },
+  "clodagh": {
+    "accountId": "f8874d52-cd63-40ad-b855-7ab3817e34cb",
+    "apiKey": "sk_2V4o2IwvTc5Jgx6rwOXPWuUXpWUKEt",
+    "userId": "76fcc05f-8f61-412f-ab92-1ef2ae6de694",
+    "calendarId": "615f08a3-cfab-4589-8006-4bb4152289a5",
+    "workerName": "Clodagh",
+    "role": "Customer Service",
+    "createdAt": "2026-04-05T11:54:51.420Z"
+  },
+  "tony": {
+    "accountId": "429ed4c8-bcc2-46d1-9507-20dad0bdba4a",
+    "apiKey": "sk_1n7Adhc2A2fiHYflUr2GzANWPQoWPi",
+    "userId": "90fffff3-3cac-4780-8c07-c310117423c0",
+    "calendarId": "6460ba18-056e-4b8a-8e93-5429ca8591b9",
+    "workerName": "Tony",
+    "role": "Librarian & Archivist",
+    "createdAt": "2026-04-05T11:54:51.440Z"
+  },
+  "claude-code": {
+    "accountId": "9f984123-8504-4c45-bce4-d849d592aa0e",
+    "apiKey": "sk_KSmHTYRw2YeO3QtvZgeBHGgrEbDbNc",
+    "userId": "a2cdb459-171d-4d3f-9ba3-c893a75c1819",
+    "calendarId": "49cc8a0c-2afb-406d-933c-8c0b0c4c0da4",
+    "workerName": "Claude Code",
+    "role": "QC & Intelligence",
+    "createdAt": "2026-04-05T11:54:51.454Z"
+  },
+  "killian-costello": {
+    "accountId": "c1937f96-eae6-427e-8a1a-98ca999a6eb2",
+    "apiKey": "sk_iPh4QlGq0wp8TLXKjFEGSekb2xGsnP",
+    "userId": "5ac7dc63-513c-46c8-ab0c-490920708b7f",
+    "calendarId": "c0ac7414-1f77-4c2f-b94e-adab0c7002ab",
+    "workerName": "Killian Costello",
+    "role": "Head Engineer",
+    "createdAt": "2026-04-05T11:54:51.468Z"
+  },
+  "elon": {
+    "accountId": "0af02095-d0fb-4e1c-a6db-b231a6660acf",
+    "apiKey": "sk_Y0LBoLv6szmNNVxvqWRdkBt9iHfmC2",
+    "userId": "6c971921-5c4b-45d0-abf1-5baf1a2f8f30",
+    "calendarId": "a8283a53-1baa-43f6-823a-a9225e7cbbd0",
+    "workerName": "Elon",
+    "role": "Night Shift Manager",
+    "createdAt": "2026-04-05T11:54:51.482Z"
+  }
+}
