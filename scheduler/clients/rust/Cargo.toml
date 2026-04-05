@@ -4,12 +4,10 @@ version = "0.4.1"
 description = "Nettu scheduler sdk"
 license = "MIT"
 authors = ["Fredrik Meringdal"]
-edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+edition = "2021"
 
 [dependencies]
 nettu_scheduler_api_structs = { path = "../../crates/api_structs", version = "0.3.1" }
 nettu_scheduler_domain = { path = "../../crates/domain", version = "0.2.1" }
-reqwest = { version = "0.11.4", features = ["json"] }
-serde = "1.0.123"
+reqwest = { version = "0.12", features = ["json"] }
+serde = "1.0"

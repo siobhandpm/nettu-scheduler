@@ -2,22 +2,20 @@
 name = "nettu_scheduler_infra"
 version = "0.1.0"
 authors = ["Fredrik Meringdal"]
-edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+edition = "2021"
 
 [dependencies]
 nettu_scheduler_utils = { path = "../utils" }
 nettu_scheduler_domain = { path = "../domain" }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1"
-async-trait = "0.1.42"
-chrono = { version = "0.4.19", features = ["serde"] }
-chrono-tz = { version = "0.5.3", features = ["serde"] }
-anyhow = "1.0.0"
-tokio = { version = "1.10.0", features = ["macros"] }
-tracing = "0.1.25"
-reqwest = { version = "0.11.4", features = ["json"] }
-uuid = { version = "0.8.2", features = ["serde"] }
+async-trait = "0.1"
+chrono = { version = "0.4", features = ["serde"] }
+chrono-tz = { version = "0.10", features = ["serde"] }
+anyhow = "1.0"
+tokio = { version = "1", features = ["macros"] }
+tracing = "0.1"
+reqwest = { version = "0.12", features = ["json"] }
+uuid = { version = "1", features = ["serde", "v4"] }
 futures = "0.3"
-sqlx = { version = "0.5.6", features = ["postgres", "runtime-actix-rustls", "uuid", "json"] }
+sqlx = { version = "0.8", features = ["postgres", "runtime-tokio-rustls", "uuid", "json"] }

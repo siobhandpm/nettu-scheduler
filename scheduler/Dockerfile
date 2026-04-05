@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 
 ARG DEBIAN_FRONTEND=noninteractive
 
@@ -16,11 +16,13 @@ COPY . .
 
 ENV DATABASE_URL="postgresql://postgres:postgres@172.17.0.1:5432/nettuscheduler"
 
-RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain 1.63.0 \
+RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain 1.94.1 \
     && cargo build --release \
     && cp /home/rust/target/release/nettu_scheduler . \
     && cp /home/rust/target/release/migrate . \
     && rm -rf /home/rust/target \
     && rustup self uninstall -y
+
+RUN apt-get update && apt-get install -y curl && rm -rf /var/lib/apt/lists/*
 
 ENTRYPOINT ["/bin/sh", "-c" , "./migrate && ./nettu_scheduler"]
