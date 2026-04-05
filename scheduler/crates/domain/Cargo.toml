@@ -12,12 +12,12 @@ edition = "2018"
 nettu_scheduler_utils = { path = "../utils", version = "0.1.0" }
 serde = { version = "1.0", features = ["derive"] }
 rrule = "0.5.8"
-chrono = { version = "0.4", features = ["serde"] }
-chrono-tz = { version = "0.5", features = ["serde"] }
-anyhow = "1"
-url = "2"
-uuid = { version = "0.8", features = ["v4"] }
+chrono = { version = "0.4.19", features = ["serde"] }
+chrono-tz = { version = "0.5.3", features = ["serde"] }
+anyhow = "1.0.0"
+url = "2.2.0"
+uuid = { version="0.8.2", features = ["v4"]}
 jsonwebtoken = "7"
-thiserror = "1"
-itertools = "0.10"
-rand = "0.8"
+thiserror = "1.0"
+itertools = "0.10.1"
+rand = "0.8.4"
