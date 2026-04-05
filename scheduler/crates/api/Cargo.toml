@@ -12,19 +12,19 @@ nettu_scheduler_domain = { path = "../domain" }
 nettu_scheduler_infra = { path = "../infra" }
 serde = { version = "1.0", features = ["derive"] }
 futures = "0.3"
-actix-web = "4.0.0-beta.8"
-actix-cors = "0.6.0-beta.2"
-awc = "3.0.0-beta.7"
-async-trait = "0.1.42"
+actix-web = "4"
+actix-cors = "0.7"
+awc = "3"
+async-trait = "0.1"
 rrule="0.5.8"
-chrono = { version = "0.4.19", features = ["serde"] }
-chrono-tz = "0.5.3"
-anyhow = "1.0.0"
+chrono = { version = "0.4", features = ["serde"] }
+chrono-tz = "0.5"
+anyhow = "1"
 jsonwebtoken = "7"
-thiserror = "1.0"
-tracing = "0.1.25"
-tracing-actix-web = "0.4.0-beta.10"
-tracing-futures = "0.2.5"
+thiserror = "1"
+tracing = "0.1"
+tracing-actix-web = "0.7"
+tracing-futures = "0.2"
 
 [dev-dependencies]
 serial_test = "*"
